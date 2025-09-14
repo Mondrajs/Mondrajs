@@ -2,7 +2,7 @@
 
 💻 **Yazılım Geliştirici | C# | Java | TypeScript | Veritabanı Meraklısı**  
 🌱 **Şu anda:** Web ve backend geliştirme üzerine çalışıyorum  
-📫 **İletişim:** [Email](mailto:furkanoren@example.com) | [LinkedIn](https://www.linkedin.com/in/furkan-%C3%B6ren-311b15253/)  
+📫 **İletişim:** [Email](mailto:furkanoran03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/furkan-%C3%B6ren-311b15253/)  
 
 ---
 
